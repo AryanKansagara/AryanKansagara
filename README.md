@@ -15,8 +15,13 @@
         </div>
 </div>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true)  
+<div style="display: grid; grid-template-columns: auto auto;">
+	<div style="padding: 5px; box-sizing:border-box;">
+		![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara)  
+	</div>
+	<div style="padding: 5px; box-sizing: border-box;">
+		![GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true)  
+	</div>
+</div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AryanKansagara)  
