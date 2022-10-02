@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Aryan
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I like to code and when I am not working I like to Binge Watch series 
 
