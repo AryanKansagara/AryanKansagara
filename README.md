@@ -16,3 +16,5 @@
 </div>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AryanKansagara)  
