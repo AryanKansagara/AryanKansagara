@@ -11,6 +11,6 @@
 		<img align="left" style="width: 50%;" src="https://th.bing.com/th/id/R.d7603ebc167109d54c30e2f94b192c8a?rik=0qT85N9lUCrfKA&riu=http%3a%2f%2fmedia2.giphy.com%2fmedia%2fCOO13FZ1ktabS%2fgiphy.gif&ehk=ng3mbEyug8PYCeqkO3RtpCio0XTbVQobfU11nHNYbf4%3d&risl=&pid=ImgRaw&r=0">
 	</div>
 	<div style="padding: 5px; box-sizing: border-box;">
-		<img align="right" style="width: 100%; height:80%" src="https://image.jimcdn.com/app/cms/image/transf/dimension=455x1024:format=gif/path/s9580b9761e9c2719/image/iec6ed1a442f766e1/version/1431678692/image.gif">
+		<img align="right" style="width: 100%; height:50%" src="https://image.jimcdn.com/app/cms/image/transf/dimension=455x1024:format=gif/path/s9580b9761e9c2719/image/iec6ed1a442f766e1/version/1431678692/image.gif">
 	</div>
 </div>
