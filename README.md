@@ -18,5 +18,15 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=radical)
+<h2>Connet with me:</h2>
+<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AryanKansagara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iaryankansagara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Aryanstwt1)  
+
+<br>
+<hr>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=dark)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanKansagara&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
