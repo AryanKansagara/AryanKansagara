@@ -14,3 +14,5 @@
             <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=455x1024:format=gif/path/s9580b9761e9c2719/image/iec6ed1a442f766e1/version/1431678692/image.gif" alt="World!" style="width: 100%;">
         </div>
 </div>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara)  
