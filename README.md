@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Aryan
 
-
 I like to code and when I am not working I like to Binge Watch series 
 
 Skills: HTML/CSS/Python/C++
@@ -14,8 +13,6 @@ Skills: HTML/CSS/Python/C++
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AryanKansagara)  
-
-![GitHub metrics](https://metrics.lecoq.io/AryanKansagara)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara)  
 
