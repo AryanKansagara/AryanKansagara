@@ -2,6 +2,8 @@
 <h3 align="center">Just an Explorer<br><br><br><img src="https://thumbs.gfycat.com/CompassionateVioletIndochinesetiger-size_restricted.gif"></h3>
 
 <br>
+<hr>
+<br>
 
 <h3 align="center">That's me on the left and my subconscious on the right</h3>
 <br>
@@ -14,13 +16,6 @@
             <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=455x1024:format=gif/path/s9580b9761e9c2719/image/iec6ed1a442f766e1/version/1431678692/image.gif" alt="World!" style="width: 100%;">
         </div>
 </div>
-
-<br>
-<br>
-
-<h2>Connet with me:</h2>
-<br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AryanKansagara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iaryankansagara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Aryanstwt1)  
 
 <br>
 <hr>
