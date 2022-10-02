@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Kansagara</h1>
 <h3 align="center">Just an Explorer To infinity And BEYOND</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)">
+<img align="right" alt="Code" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 
 <h3 align="left">Connect with me:</h3>
