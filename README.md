@@ -4,6 +4,14 @@
 <br>
 <hr>
 <br>
+<p align="center">
+<h2>Connect With Me:</h2>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AryanKansagara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iaryankansagara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Aryanstwt1)  
+</p>
+
+<br>
+<hr>
+<br>
 
 <h3 align="center">That's me on the left and my subconscious on the right</h3>
 <br>
