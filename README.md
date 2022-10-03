@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Kansagara</h1>
-<h3 align="center">Just an Explorer<br><br><br><img src="https://thumbs.gfycat.com/CompassionateVioletIndochinesetiger-size_restricted.gif"></h3>
-
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470qdmaqi1h3oxdda2d270om8q60jfy2fkymdbtkyw&rid=giphy.gif&ct=g" alt="Hello World!!">
-
+<h3 align="center">Just an Explorer<br><br><br><img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470qdmaqi1h3oxdda2d270om8q60jfy2fkymdbtkyw&rid=giphy.gif&ct=g" alt="Hello World!!">
+</h3>
 <br>
 <hr>
 <br>
