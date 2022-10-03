@@ -28,13 +28,13 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara&theme=dark&border=61dafb&hide_border=true" alt="AryanKansagara" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=dark" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=dark&border_radius=0" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=radical&border_radius=0"/>
+      <img width=325 align="center" src="[https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=radical&border_radius=0](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKansagara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
     </a>
   </div>
   <br>
