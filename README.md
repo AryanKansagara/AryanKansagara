@@ -28,7 +28,7 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara&theme=dark&border=61dafb&hide_border=true" alt="AryanKansagara" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=dark&border_radius=0" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=dark&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
