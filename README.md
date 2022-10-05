@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Kansagara</h1>
 <h3 align="center">Just an Explorer<br><br><br>
+ <img src="https://raw.githubusercontent.com/AryanKansagara/AryanKansagara/main/github.gif" alt="Hello World!">
 </h3>
-![Github gif](https://raw.githubusercontent.com/AryanKansagara/AryanKansagara/main/github.gif)
 <br>
 <hr>
 <br>
