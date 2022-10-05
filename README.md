@@ -10,7 +10,7 @@
 <a href="https://github.com/AryanKansagara"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 <a href="https://www.instagram.com/iaryankansagara/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
 <a href="https://twitter.com/@Aryanstwt1"><img src="https://img.shields.io/twitter/follow/@Aryanstwt1_here?label=Follow&style=social"></a>
-
+[https://img.shields.io/badge/<-<MESSAGE>-<COLOR>"](https://img.shields.io/static/v1?label=twitter&message=<MESSAGE>&color=<COLOR>)
 </p>
 
 <br>
