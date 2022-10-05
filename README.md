@@ -9,7 +9,8 @@
 <h3 align="center">Connect With Me:</h3>
 <a href="https://github.com/AryanKansagara"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 <a href="https://www.instagram.com/iaryankansagara/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
-<a href="https://twitter.com/Aryanstwt1"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'></a> 
+<a href="https://twitter.com/@Aryanstwt1"><img src="https://img.shields.io/twitter/follow/@Aryanstwt1_here?label=Follow&style=social"></a>
+
 </p>
 
 <br>
