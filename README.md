@@ -20,4 +20,4 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=tokyonight&hide_border=true">
 <img width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara&theme=tokyonight&border=61dafb&hide_border=true">	
  </p>
- <img src="https://activity-graph.herokuapp.com/graph?username=AryanKansagara&theme=radical&bg_color=20232a&hide_border=true" alt="Activity Graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=AryanKansagara&theme=tokyonight&bg_color=20232a&hide_border=true" alt="Activity Graph">
