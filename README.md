@@ -3,6 +3,7 @@
 <p align="center">
 <br>
 <br>
+<div bg_color="#967E76">
 <h3 align="center"><i>Connect with me:</i><h3>
 <br>
 <br>
@@ -10,7 +11,7 @@
 <a href="https://github.com/AryanKansagara"><img src="https://github.com/AryanKansagara/AryanKansagara/raw/main/github.svg" alt='github' height='40'></a>
 <a href="https://twitter.com/Aryanstwt1"><img src="https://github.com/AryanKansagara/AryanKansagara/raw/main/download.svg" alt='twitter' width=40></a> 
 </p>
-
+</div>
 <br>
 <hr>
 <br>
