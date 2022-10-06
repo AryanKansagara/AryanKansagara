@@ -1,23 +1,39 @@
-<h1 align="center">Hi 👋, I'm Aryan Kansagara</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan Kansagara
+=======================================================================================================================================
 
-<p align="center">
-<br>
-<br>
+Exploring everything
+--------------------
 
-<h3 align="center"><i>Connect with me:</i><h3>
-<br>
-<br>
-<a href="https://www.instagram.com/iaryankansagara/"><img src="https://github.com/AryanKansagara/AryanKansagara/raw/main/instagram.svg" alt='instagram' height='40'></a>
-<a href="https://github.com/AryanKansagara"><img src="https://github.com/AryanKansagara/AryanKansagara/raw/main/github.svg" alt='github' height='40'></a>
-<a href="https://twitter.com/Aryanstwt1"><img src="https://github.com/AryanKansagara/AryanKansagara/raw/main/download.svg" alt='twitter' width=40></a> 
+I started with python as a language and did many projects and worked on webscraping through selenium then switched to c++ for DSA and also learned HTML, CSS to make a cv website . I also learned a bit of mySql and still learning everything I can.
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-<br>
-<hr>
-<br>
- 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&theme=tokyonight&hide_border=true">
-<img width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara&theme=tokyonight&border=61dafb&hide_border=true">	
- </p>
- <img src="https://activity-graph.herokuapp.com/graph?username=AryanKansagara&theme=tokyonight&bg_color=20232a&hide_border=true" alt="Activity Graph">
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/AryanKansagara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/iaryankansagara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Aryanstwt1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AryanKansagara"><img src="https://github-readme-stats.vercel.app/api?username=AryanKansagara&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AryanKansagara's GitHub stats" /></a>
+
+<a href="http://www.github.com/AryanKansagara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKansagara&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/AryanKansagara"><img src="https://activity-graph.herokuapp.com/graph?username=AryanKansagara&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/AryanKansagara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKansagara&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
