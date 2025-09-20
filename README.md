@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Exploring everything
 --------------------
 
-I started with python as a language and did many projects and worked on webscraping through selenium then switched to c++ for DSA and also learned HTML, CSS to make a cv website . I also learned a bit of mySql and still learning everything I can.
 
 ### Skills
 
