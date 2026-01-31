@@ -1,7 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan Kansagara
-=======================================================================================================================================
 
-Exploring everything
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanKansagara/AryanKansagara/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanKansagara/AryanKansagara/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AryanKansagara/AryanKansagara/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="left">Hey! I’m Aryan, a computer science student who likes building things that work and breaking things to figure out why they don’t. By day, I’m writing code, automating workflows, and chasing down bugs. By night, I’m training ML models, reading research papers, and questioning my life choices in this wonderfully unpredictable tech market.<br><br>I spend a lot of time working on AI/ML projects, especially around time-series forecasting, uncertainty estimation, explainable AI, and accessibility-focused systems. I enjoy turning messy real-world data into systems that are reliable, interpretable, and actually usable, not just cool demos.<br><br>Outside of code, I’m usually leading student clubs, organizing hackathons, mentoring teammates, or convincing myself I’ll “just watch one episode” and absolutely not doing that. I’m a big believer in learning by building.<br><br>I’m into building tech that’s useful, inclusive, and a little smarter than me (which, honestly, isn’t a very high bar). Always down to chat about ML, software engineering, research, or whatever language I’m pretending to enjoy this week.</p>
+
+###
 --------------------
 
 
