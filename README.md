@@ -42,12 +42,11 @@ My interests sit in uncertainty quantification and conformal prediction, time-se
 </p>
 
 ---
-
 ### 📌 Selected projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **Aperture** | Local-first, least-cost AI inference router — on-device first, cloud only when needed | Next.js 16 · TypeScript · Tailwind v4 · WebGPU / web-llm |
+| [Aperture](https://aperture-aryankansagaras-projects.vercel.app/) | Local-first, least-cost AI inference router — on-device first, cloud only when needed | Next.js 16 · TypeScript · Tailwind v4 · WebGPU / web-llm |
 | **Rootbound** | Urban gardening platform: marketplace, care engine, CV-based plant ID and harvest forecasting | React · Express · Postgres · Redis · PlantNet · Gemini Vision |
 | **EMForecaster** | Conformalized quantile regression for long-horizon time-series forecasting | Python · PyTorch · Neptune.ai |
 | **Grocer OS** | Autonomous grocery agent built on GOAT Network (Toronto OpenClaw Hack) | Agentic AI · TypeScript |
