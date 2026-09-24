@@ -1,9 +1,8 @@
 <h1 align="left">Hi, I'm Aryan 👋</h1>
 
 <p align="left">
-Computer Science student at York University's Lassonde School of Engineering. I build systems that turn messy, real-world data into something reliable and interpretable — and I spend most of my time somewhere between applied ML research and production software engineering.
+Currently a <b>Data Scientist Intern at <a href="https://www.ibm.com/">IBM</a></b> on the Skills Network team, building high-throughput telemetry data pipelines. Previously, I spent a year as a <b>Software Engineering Intern with the <a href="https://www.ontario.ca/page/ontario-public-service">Ontario Public Service</a></b>, building developer tooling and AI integration layers.
 </p>
-
 <p align="left">
 Currently a software engineering co-op with the Ontario Public Service, where I work on a Next.js/TypeScript frontend and build internal tooling around AI-assisted development workflows. Alongside that I hold two research assistant positions — one in clinical AI fairness, one in wireless networks — and lead the AI &amp; Data Society at York.
 </p>
@@ -56,6 +55,20 @@ My interests sit in uncertainty quantification and conformal prediction, time-se
 | [Wildfire Prediction](https://github.com/AryanKansagara/Wildfire-Prediction-and-Visualization) | Wildfire risk modelling and geospatial visualization | Python · scikit-learn |
 | [Hype-Detector](https://github.com/AryanKansagara/Hype-Detector) | NLP pipeline for detecting hype in text | Python · NLP |
 | [News Aggregator](https://github.com/AryanKansagara/News-Aggregator-App) | Multi-source news aggregation app | Full-stack |
+
+---
+---
+### 🌐 Open Source Contributions
+
+I actively contribute upstream to the ecosystems and tools I use daily.
+
+**Core Code Contributions**
+
+| Repository | Pull Request / Issue | Contribution Summary |
+| --- | --- | --- |
+| [Shopify/cli](https://github.com) | [#6800](https://github.com/pull/6800) | Fixed Linux platform defect regarding output swallowing on Ubuntu 24.04 |
+| [TangleML/tangle](https://github.com) | Active | Contributing to UI/UX layers for Shopify's open-source visual ML orchestration engine |
+| [Shopify/hydrogen](https://github.com/Shopify/hydrogen) | [#3988](https://github.com/Shopify/hydrogen/issues/3988) | Traced and isolated CLI build failures occurring on file paths containing spaces |
 
 ---
 
