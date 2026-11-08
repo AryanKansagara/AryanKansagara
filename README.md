@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Aryan 👋</h1>
 
 <p align="left">
-Currently a <b>Data Scientist Intern at <a href="https://www.ibm.com/">IBM</a></b> on the Skills Network team, building high-throughput telemetry data pipelines. Previously, I spent a year as a <b>Software Engineering Intern with the <a href="https://www.ontario.ca/page/ontario-public-service">Ontario Public Service</a></b>, building developer tooling and AI integration layers.
+Currently a <b>Data Scientist Intern at <a href="https://www.ibm.com/">IBM</a></b> , building high-throughput telemetry data pipelines. Previously, I spent a year as a <b>Software Engineering Intern with the <a href="https://www.ontario.ca/page/ontario-public-service">Ontario Public Service</a></b>, building developer tooling and AI integration layers.
 </p>
 <p align="left">
 Currently a software engineering co-op with the Ontario Public Service, where I work on a Next.js/TypeScript frontend and build internal tooling around AI-assisted development workflows. Alongside that I hold two research assistant positions — one in clinical AI fairness, one in wireless networks — and lead the AI &amp; Data Society at York.
