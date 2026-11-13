@@ -57,20 +57,6 @@ My interests sit in uncertainty quantification and conformal prediction, time-se
 | [News Aggregator](https://github.com/AryanKansagara/News-Aggregator-App) | Multi-source news aggregation app | Full-stack |
 
 ---
----
-### 🌐 Open Source Contributions
-
-I actively contribute upstream to the ecosystems and tools I use daily.
-
-**Core Code Contributions**
-
-| Repository | Pull Request / Issue | Contribution Summary |
-| --- | --- | --- |
-| [Shopify/cli](https://github.com) | [#6800](https://github.com/pull/6800) | Fixed Linux platform defect regarding output swallowing on Ubuntu 24.04 |
-| [TangleML/tangle](https://github.com) | Active | Contributing to UI/UX layers for Shopify's open-source visual ML orchestration engine |
-| [Shopify/hydrogen](https://github.com/Shopify/hydrogen) | [#3988](https://github.com/Shopify/hydrogen/issues/3988) | Traced and isolated CLI build failures occurring on file paths containing spaces |
-
----
 
 ### 📫 Connect
 
