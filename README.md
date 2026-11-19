@@ -9,6 +9,7 @@ interested in where AI runs and what it costs: local-first inference, agentic sy
 - <a href="https://agex-web.vercel.app">AGEX</a>: MCP server that model checks system designs with TLA+ before any code is written.<br>
 - <a href="https://canvas-agents.vercel.app">Canvas</a>: a whiteboard AI agents draw on over MCP.<br>
 - <a href="https://aperture-aryankansagaras-projects.vercel.app/">Aperture</a>: local-first AI inference router, on-device first, cloud only when needed.<br>
+- <a href="https://xenia-ten.vercel.app">Xenia</a>: a furry 3D desktop buddy for Mac and Windows that naps, chats and helps, running on the Claude Code or Codex you already have.<br>
 - EMForecaster: conformalized quantile regression for long-horizon time-series forecasting.<br>
 - Rootbound: urban gardening platform with computer-vision plant ID and harvest forecasting.<br>
 <br>
